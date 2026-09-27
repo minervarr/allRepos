@@ -29,7 +29,7 @@ git submodule foreach 'b=$(git config -f $toplevel/.gitmodules submodule.$sm_pat
 
 | `Matrix_Player` | `main` | `46a78e007581` | music player |
 
-| `PKGBUILD` | `main` | `ca03522bec73` | workspace restore script and packaging notes |
+| `PKGBUILD` | `main` | `c1a2a061d6b3` | workspace restore script and packaging notes |
 
 | `Print_BooksAndSo` | `main` | `9779eaa56ad5` | print and LaTeX books |
 

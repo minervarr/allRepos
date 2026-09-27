@@ -1,0 +1,96 @@
+[submodule "AndroidOneAudioServer_AOAS"]
+	path = AndroidOneAudioServer_AOAS
+	url = https://github.com/minervarr/Android_Audio_Server-AAS-.git
+	branch = main
+[submodule "Economycs"]
+	path = Economycs
+	url = https://github.com/minervarr/Econo_miss
+	branch = main
+[submodule "ImagesLogosCreator"]
+	path = ImagesLogosCreator
+	url = https://github.com/minervarr/Images_logos_creatos.git
+	branch = main
+[submodule "Matrix_Player"]
+	path = Matrix_Player
+	url = https://github.com/minervarr/Matrix_Player
+	branch = main
+[submodule "PKGBUILD"]
+	path = PKGBUILD
+	url = https://github.com/minervarr/PKGBUILD.git
+	branch = main
+[submodule "Print_BooksAndSo"]
+	path = Print_BooksAndSo
+	url = https://github.com/minervarr/Print_BooksAndSo.git
+	branch = main
+[submodule "UI_demo_LAW"]
+	path = UI_demo_LAW
+	url = https://github.com/minervarr/UI_demo_LAW
+	branch = main
+[submodule "VideoPlayer"]
+	path = VideoPlayer
+	url = https://github.com/minervarr/VideoPlayer.git
+	branch = main
+[submodule "ViewMage"]
+	path = ViewMage
+	url = https://github.com/minervarr/ViewMage.git
+	branch = main
+[submodule "Vk_Canvas_Lb_LAW"]
+	path = Vk_Canvas_Lb_LAW
+	url = https://github.com/minervarr/Vk_Canvas_Lb_LAW
+	branch = hdr-output
+[submodule "archive_engine"]
+	path = archive_engine
+	url = https://github.com/minervarr/archive_engine.git
+	branch = main
+[submodule "audio_recorder"]
+	path = audio_recorder
+	url = https://github.com/minervarr/audio_recorder
+	branch = main
+[submodule "camera_without_blood"]
+	path = camera_without_blood
+	url = https://github.com/minervarr/camera_without_blood
+	branch = raw-isp-30fps
+[submodule "git_wrapper"]
+	path = git_wrapper
+	url = https://github.com/minervarr/git_wrapper
+	branch = main
+[submodule "navaLauncher"]
+	path = navaLauncher
+	url = https://github.com/minervarr/nava_androidLauncher.git
+	branch = main
+[submodule "streamer"]
+	path = streamer
+	url = https://github.com/minervarr/streamer
+	branch = main
+[submodule "whisper_ui_cpp"]
+	path = whisper_ui_cpp
+	url = https://github.com/minervarr/whisper_ui_cpp
+	branch = main
+[submodule "App_shell"]
+	path = App_shell
+	url = https://github.com/minervarr/App_shell.git
+	branch = main
+[submodule "audio_engine"]
+	path = audio_engine
+	url = https://github.com/minervarr/audio_engine.git
+	branch = main
+[submodule "vulkan_font_engine"]
+	path = vulkan_font_engine
+	url = https://github.com/minervarr/vulkan_font_engine
+	branch = main
+[submodule "fonts"]
+	path = fonts
+	url = https://github.com/minervarr/fonts
+	branch = main
+[submodule "regen_atlas"]
+	path = regen_atlas
+	url = https://github.com/minervarr/regen_atlas
+	branch = main
+[submodule "KawusapiCC"]
+	path = KawusapiCC
+	url = https://github.com/minervarr/KawusapiCC
+	branch = main
+[submodule "reference/media_player"]
+	path = reference/media_player
+	url = https://github.com/minervarr/media_player
+	branch = master
